@@ -16,3 +16,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 "# react-todo-app" 
+
+
+Question - 2 solution also added in this repository please check file solution2.js
